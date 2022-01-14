@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ziyan.
 - 👀 I’m interested in Philosophy, Computational Social Science, and Digital Games.
 - 🌱 I’m currently exploring Natural Language Processing.
-- 💞️ I’m looking to collaborate on Tech4Good projects.
-- 📫 How to reach me: https://ziyanxie.com
+- 💞️ I look forward to collaborating on Tech4Good projects and organizing hackathons.
+- 📫 How to reach me: https://ziyanxie.com or xavierxie_sh@163.com
