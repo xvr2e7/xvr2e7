@@ -2,10 +2,10 @@
 
 ## I'm a Learner, Philosopher, and Developer!!
 
-- 🔭 You could find more about me: https://ziyanxie.com
+- 🔭 You could find more about me: --personal website updating...--
 - ⚡ I’m currently learning everything 🤣
 - 👀 I look forward to collaborating on Tech4Good projects and organizing hackathons.
-- 📫 How to reach me: xavierxie_sh@163.com
+- 📫 How to reach me: xvx_sh@outlook.com
 <br />
 
 ### Languages and Tools:
