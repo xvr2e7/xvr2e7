@@ -1,6 +1,6 @@
 ### Hi there, I'm Xavier 👋 
 
-## Always a learner and a player
+## Always a learner and a gamer
 
 - 🔭 You could find more about me: --....--
 - ⚡ I’m currently learning everything 🤣
