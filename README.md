@@ -1,6 +1,6 @@
 ### Hi there, I'm Xavier 👋 
 
-## I'm a Learner, Philosopher, and Developer!!
+## Always a learner and a player
 
 - 🔭 You could find more about me: --....--
 - ⚡ I’m currently learning everything 🤣
