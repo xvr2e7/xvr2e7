@@ -1,10 +1,7 @@
-### Hi there, I'm Xavier 👋 
+### Hi there, I'm Ziyan.👋 
 
 ## Always a learner and a gamer
 
-- 🔭 You could find more about me: --....--
-- ⚡ I’m currently learning everything 🤣
-- 👀 I look forward to collaborating on Tech4Good projects and organizing hackathons.
 - 📫 How to reach me: xvx_sh@outlook.com
 <br />
 
