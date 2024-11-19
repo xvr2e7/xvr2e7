@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ziyan</h1>
+<h1 align="left">Hi, I'm Ziyan</h1>
 
 ### Currently Working On
 - 🔭 Building full-stack web applications with React and Node.js
