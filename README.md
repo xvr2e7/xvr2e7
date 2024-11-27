@@ -30,18 +30,3 @@
 ## Connect With Me
 - 📫 Email: **ziyanx@ucla.edu**
 - 🎮 Discord: xvr2e7
-
----
-<p align="left">
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com/?user=xvr2e7&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com/?user=xvr2e7"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://streak-stats.demolab.com/?user=xvr2e7" alt="github streak"/>
-  </picture>
-</p>
