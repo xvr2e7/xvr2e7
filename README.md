@@ -35,27 +35,13 @@
 <p align="left">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=xvr2e7&show_icons=true&theme=dark"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=xvr2e7&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=xvr2e7&show_icons=true"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=xvr2e7"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=xvr2e7&show_icons=true" alt="github stats"/>
-  </picture>
-</p>
-
-<p align="left">
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=xvr2e7&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=xvr2e7"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://streak-stats.demolab.com?user=xvr2e7" alt="github streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xvr2e7" alt="github streak"/>
   </picture>
 </p>
