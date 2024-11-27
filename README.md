@@ -32,17 +32,16 @@
 - 🎮 Discord: xvr2e7
 
 ---
-
 <p align="left">
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=xvr2e7&theme=dark&cache_seconds=86400"
+      srcset="https://streak-stats.demolab.com/?user=xvr2e7&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=xvr2e7&cache_seconds=86400"
+      srcset="https://streak-stats.demolab.com/?user=xvr2e7"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xvr2e7&cache_seconds=86400" alt="github streak"/>
+    <img src="https://streak-stats.demolab.com/?user=xvr2e7" alt="github streak"/>
   </picture>
 </p>
