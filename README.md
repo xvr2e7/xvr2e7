@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/LÖVE-EA316E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0iI0VBMzE2RSIvPjxwYXRoIGQ9Ik01MCA3NSBDMjUgNTUsIDE1IDM1LCAzMCAyNSBDNDUgMTUsIDUwIDMwLCA1MCAzMCBDNTAgMzAsIDU1IDE1LCA3MCAyNSBDODUgMzUsIDc1IDU1LCA1MCA3NSIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" height="20" alt="love2d" align="middle"/>
+  <img src="https://img.shields.io/badge/LÖVE-EA316E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0iI0VBMzE2RSIvPjxwYXRoIGQ9Ik01MCA3NSBDMjUgNTUsIDE1IDM1LCAzMCAyNSBDNDUgMTUsIDUwIDMwLCA1MCAzMCBDNTAgMzAsIDU1IDE1LCA3MCAyNSBDODUgMzUsIDc1IDU1LCA1MCA3NSIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" height="40" alt="love2d"/>
 </p>
 
 ## Connect With Me
