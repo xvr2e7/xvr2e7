@@ -34,5 +34,15 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xvr2e7&theme=dark" alt="github streak" />
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=xvr2e7&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=xvr2e7"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xvr2e7" alt="github streak"/>
+  </picture>
 </p>
