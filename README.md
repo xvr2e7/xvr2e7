@@ -33,9 +33,9 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="your github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xvr2e7&show_icons=true&theme=dark" alt="github stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="your github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yxvr2e7&theme=dark" alt="github streak" />
 </p>
